@@ -1,6 +1,1 @@
-git init
-git add .
-git commit -m "Versión inicial de calculadora de holgura"
-git branch -M main
-git remote add origin https://github.com/09CesarVargas28/calculadora-holgura-web.git
-git push -u origin main
+npm install
